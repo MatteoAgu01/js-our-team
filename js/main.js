@@ -78,7 +78,44 @@ let members = [
 		"Ramos",
 		"Graphic Designer",
 		"barbara-ramos-graphic-designer.jpg"
+	),
+		new Member(
+		"Wayne",
+		"Barnett",
+		"Founder & CEO",
+		"wayne-barnett-founder-ceo.jpg"
+	),
+	new Member(
+		"Angela",
+		"Caroll",
+		"Chief Editor",
+		"angela-caroll-chief-editor.jpg"
+	),
+	new Member(
+		"Walter",
+		"Gordon",
+		"Office Manager",
+		"walter-gordon-office-manager.jpg"
+	),
+	new Member(
+		"Angela",
+		"Lopez",
+		"Social Media Manager",
+		"angela-lopez-social-media-manager.jpg"
+	),
+	new Member(
+		"Scott",
+		"Estrada",
+		"Developer",
+		"scott-estrada-developer.jpg"
+	),
+	new Member(
+		"Barbara",
+		"Ramos",
+		"Graphic Designer",
+		"barbara-ramos-graphic-designer.jpg"
 	)
+
 ];
 
 function printMembers() {

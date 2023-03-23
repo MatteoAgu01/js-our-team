@@ -16,3 +16,25 @@
      border-top-right-radius:5px;
      border-top-left-radius: 5px;
 }
+
+@media screen and (max-width:768px){
+     .my-container{
+          flex-flow: column wrap;
+          align-items: center;
+     }
+
+     .my-card{
+          width: 50% ;
+     }
+}
+
+@media screen and (max-width:576px){
+     .my-container{
+          flex-flow: column wrap;
+          align-items: center;
+     }
+
+     .my-card{
+          width: 100% ;
+     }
+}
